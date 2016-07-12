@@ -45,3 +45,5 @@ def palindrome_i(str)
   end
   return true
 end
+
+puts palindrome_r("Rise to vote sirh")
